@@ -1,0 +1,2 @@
+  include "ftgo-kitchen-service-api"
+  include "ftgo-kitchen-service-contracts"
