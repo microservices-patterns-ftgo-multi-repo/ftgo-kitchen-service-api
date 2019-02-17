@@ -29,4 +29,3 @@ contracts {
 
 generateContractTests.enabled = false
 
-build.finalizedBy(publish)
